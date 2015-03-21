@@ -1,7 +1,7 @@
 # Ways to make sure your promotional email lands to inbox
 Here is the lists of all the things to do and NOT to do to make sure your mail is reaching its intented location.
 
-## To-Do's
+## Checklist
 Following is the lists of things to do:
 * <dl>
     <dt>Mention By Reader name</dt>
